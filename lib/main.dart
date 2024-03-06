@@ -4,7 +4,6 @@ import 'package:for_provider/ui/screens/splash_screen/splash_screen.dart';
 import 'package:provider/provider.dart';
 
 import 'logic/providers/loading_provider.dart';
-
 ///provider
 ///likes: 9562
 ///pub points: 140
