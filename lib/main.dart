@@ -5,6 +5,10 @@ import 'package:provider/provider.dart';
 
 import 'logic/providers/loading_provider.dart';
 
+//provider
+//likes: 9562
+//pub points: 140
+//popularity: 100
 void main() {
   runApp(const MyApp());
 }
