@@ -73,6 +73,7 @@ class _PlusGameState extends State<DivGame> {
                     height: 65,
                     width: 300,
                     child: TextField(
+                      keyboardType: TextInputType.number,
                       textAlign: TextAlign.center,
                       controller: controller,
                       style: TextStyle(
